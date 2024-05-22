@@ -1,11 +1,12 @@
  
 import Links from "./links/Links"
 
+
 const Navbar= ()=>{
 
     return(
 
-            <nav>
+            <nav className="container">
                 <div>Logo</div>
                 <div> 
                      <Links/>
