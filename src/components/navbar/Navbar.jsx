@@ -7,7 +7,7 @@ const Navbar= ()=>{
 
     return(
 
-            <nav className="container">
+            <nav className="navbar">
                 <div>Logo</div>
                 <div> 
                      <Links/>
