@@ -1,6 +1,5 @@
  
 import Links from "./links/Links"
-import "./navbar/navbar.css"
 
 
 const Navbar= ()=>{
